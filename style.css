@@ -1,0 +1,219 @@
+          .row.h-25.baner {
+    background-image: url(https://psar.pl/wp-content/uploads/2022/08/BG.png);
+                display: grid;
+  place-items: center;
+}
+
+          .kaf
+          {
+             display: flex;
+  justify-content: center;
+  align-items: center;
+          }
+          
+          .kafelek{
+box-sizing: border-box;
+position: absolute; 
+width: 190px;
+height: 190px;
+top: 304px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+              border-radius: 8px;
+     display: flex;
+            justify-content: center;
+            align-items: center;
+
+}
+          /*
+                    .kafelek2{
+      box-sizing: border-box;
+position: absolute;
+width: 190px;
+height: 190px;
+top: 304px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+border-radius: 8px;}
+          
+                    .kafelek3{
+      box-sizing: border-box;
+position: absolute;
+width: 190px;
+height: 190px;
+top: 304px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+              border-radius: 8px;}
+    */
+          .kafelek:hover{
+box-sizing: border-box;
+position: absolute; 
+width: 190px;
+height: 190px;
+top: 304px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.2);
+border-radius: 8px; 
+          }
+          /*
+           .kafelek2:hover{
+box-sizing: border-box;
+position: absolute;
+width: 190px;
+height: 190px;
+top: 304px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.2);
+border-radius: 8px; 
+          }  
+          
+           .kafelek3:hover{
+box-sizing: border-box;
+position: absolute;
+width: 190px;
+height: 190px;
+top: 304px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.2);
+border-radius: 8px; 
+          }     
+          
+     */
+
+
+.kaf1.col-4 {
+    display: grid;
+    place-items: center;
+    
+}
+          
+          .kaf2.col-4 {
+    display: grid;
+    place-items: center;
+              margin-left: 33.33333333333%;
+}
+          
+          .kaf3.col-4 {
+    display: grid;
+    place-items: center;
+              margin-left: 66.66666666666%;
+}
+     
+          .col.stopka {
+    background-color: #04A8A8;
+}
+    
+          .kafelek1.col-4 {
+    display: grid;
+    place-items: center;
+}
+          
+          .kafelek2.col-4 {
+    display: grid;
+    place-items: center;
+}
+          
+          .kafelek3.col-4 {
+    display: grid;
+    place-items: center;
+
+}
+          .h-50 {
+    height: 60%!important;
+}
+          
+          .row.h-15 {
+    height: 15%;
+}
+          
+          p.tekstowo{
+          position: absolute;
+width: 154px;
+height: 51px;
+top: 524px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 99% */
+text-align: center;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+              color: #000000; }
+          
+                    p.tekst{
+          position: absolute;
+width: 100%;
+height: 51px;
+/* font-family: 'Nunito'; */
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 99% */
+text-align: center;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+              color: #fff; }
+          
+p.tekstowo:hover{        
+position: absolute;
+width: 230px;
+top: 524px;
+height: 51px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 99% */
+text-align: center;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+color: #04A8A8;  
+      
+          }
+          
+                    
+.col.stopka {
+    display: grid;
+    place-items: center;
+}
+          
+          p.tekst {
+    margin-top: 3%;
+}
+          
+        a.jezyk {
+    color: #fff;
+    text-decoration: none;
+}
+
+.kafelek1.col {
+    display: grid;
+    place-items: center;
+}
+/*
+.kaf1.col {
+    display: grid;
+    place-items: center;
+}*/
+
+.kaf1.col {
+    /* display: grid; */
+    /* place-items: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p.tekstowo.rowno {
+    width: 170px;
+}
+
+      </style>
