@@ -4,6 +4,7 @@
   place-items: center;
 }
 
+
           .kaf
           {
              display: flex;
@@ -145,6 +146,23 @@ text-align: center;
 letter-spacing: 0.01em;
 text-transform: uppercase;
               color: #000000; }
+
+p.tekstowo2 {
+            position: absolute;
+width: 174px;
+height: 51px;
+top: 524px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 99% */
+text-align: center;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+              color: #000000;  
+}
           
                     p.tekst{
           position: absolute;
@@ -160,10 +178,28 @@ text-align: center;
 letter-spacing: 0.01em;
 text-transform: uppercase;
               color: #fff; }
-          
+
 p.tekstowo:hover{        
 position: absolute;
-width: 230px;
+width: 174px;
+top: 524px;
+height: 51px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 99% */
+text-align: center;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+color: #04A8A8;  
+      
+          }
+          
+p.tekstowo2:hover{        
+position: absolute;
+width: 174px;
 top: 524px;
 height: 51px;
 font-family: 'Nunito';
